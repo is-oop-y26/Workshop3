@@ -8,8 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Articles.ExpressionIntegration\Articles.ExpressionIntegration.csproj" />
-      <ProjectReference Include="..\Articles\Articles.csproj" />
+      <ProjectReference Include="..\Expressions\Expressions.csproj" />
     </ItemGroup>
 
 </Project>
